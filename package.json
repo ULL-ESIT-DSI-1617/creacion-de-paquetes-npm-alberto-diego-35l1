@@ -1,0 +1,23 @@
+{
+  "name": "creacion-de-paquetes-npm-alberto-diego-35l1",
+  "version": "1.0.0",
+  "description": "Programa principal para ejecutar los distintos plugins de cada figura",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ULL-ESIT-DSI-1617/creacion-de-paquetes-npm-alberto-diego-35l1.git"
+  },
+  "author": "alberto-diego",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ULL-ESIT-DSI-1617/creacion-de-paquetes-npm-alberto-diego-35l1/issues"
+  },
+  "homepage": "https://github.com/ULL-ESIT-DSI-1617/creacion-de-paquetes-npm-alberto-diego-35l1#readme",
+  "dependencies": {
+    "ull-shape-alberto-diego": "^1.0.0",
+    "ull-shape-rectangle-alberto-diego": "^1.0.0"
+  }
+}
