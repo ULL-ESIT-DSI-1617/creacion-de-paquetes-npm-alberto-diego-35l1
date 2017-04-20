@@ -21,5 +21,17 @@
     "ull-shape-rectangle-alberto-diego": "^1.0.0",
     "ull-shape-square-alberto-diego": "^1.0.0",
     "ull-shape-triangle-alberto-diego": "^1.0.0"
-  }
+  },
+  "contributors": [
+    {
+      "name": "Alberto",
+      "email": "alu0100825510@ull.edu.es",
+      "url": "https://github.com/alu0100825510"
+    },
+    {
+      "name": "Diego",
+      "email": "alu0100761252@ull.edu.es",
+      "url": "https://github.com/alu0100761252"
+    }
+  ]
 }
