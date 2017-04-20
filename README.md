@@ -14,9 +14,9 @@ Por otra parte, se ha desarrollado el programa principal del cálculo de áreas,
 
 * Enlaces a los repositorios de los módulos npm:
   * [ull-shape-alberto-diego](https://github.com/ULL-ESIT-DSI-1617/creacion-de-paquetes-npm-alberto-diego)
-  * [ull-shape-triangle-alberto-diego]()
+  * [ull-shape-triangle-alberto-diego](https://github.com/ULL-ESIT-DSI-1617/creacion-de-paquetes-npm-alberto-diego-triangle)
   * [ull-shape-rectangle-alberto-diego](https://github.com/ULL-ESIT-DSI-1617/creacion-de-paquetes-npm-alberto-diego-rectangle)
-  * [ull-shape-square-alberto-diego]()
+  * [ull-shape-square-alberto-diego](https://github.com/ULL-ESIT-DSI-1617/creacion-de-paquetes-npm-alberto-diego-square)
 
 
 
