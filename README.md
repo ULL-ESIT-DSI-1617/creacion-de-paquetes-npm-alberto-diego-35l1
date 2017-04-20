@@ -12,6 +12,9 @@ npm install ull-shape-square-alberto-diego
 
 Por otra parte, se ha desarrollado el programa principal del cálculo de áreas, en el que gracias a **Strategy Pattern** podremos desarrollar una aplicación escalable, en la que no se modifique el código de la función principal, dejando el relevo a las clases, que se suscriben a un objeto llamado **Shape.shapes**.
 
+* Un ejemplo para mostrar su correcto funcionamiento es la siguiente imagen, en la que se puede observar los paquetes en las dependencias y en el programa principal.
+![imagen](images/ejecucion.png)
+
 * Enlaces a los repositorios de los módulos npm:
   * [ull-shape-alberto-diego](https://github.com/ULL-ESIT-DSI-1617/creacion-de-paquetes-npm-alberto-diego)
   * [ull-shape-triangle-alberto-diego](https://github.com/ULL-ESIT-DSI-1617/creacion-de-paquetes-npm-alberto-diego-triangle)
