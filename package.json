@@ -18,6 +18,8 @@
   "homepage": "https://github.com/ULL-ESIT-DSI-1617/creacion-de-paquetes-npm-alberto-diego-35l1#readme",
   "dependencies": {
     "ull-shape-alberto-diego": "^1.0.0",
-    "ull-shape-rectangle-alberto-diego": "^1.0.0"
+    "ull-shape-rectangle-alberto-diego": "^1.0.0",
+    "ull-shape-square-alberto-diego": "^1.0.0",
+    "ull-shape-triangle-alberto-diego": "^1.0.0"
   }
 }
