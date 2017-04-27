@@ -4,7 +4,6 @@
   "description": "Programa principal para ejecutar los distintos plugins de cada figura",
   "main": "index.js",
   "scripts": {
-    "test": "node test/tests.js"
   },
   "repository": {
     "type": "git",
