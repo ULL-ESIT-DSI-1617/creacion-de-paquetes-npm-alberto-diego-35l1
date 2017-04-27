@@ -1,5 +1,7 @@
 # Creación de Paquetes NPM y Strategy Pattern
 
+[![Build Status](https://travis-ci.org/ULL-ESIT-DSI-1617/creacion-de-paquetes-npm-alberto-diego-35l1.svg?branch=master)](https://travis-ci.org/ULL-ESIT-DSI-1617/creacion-de-paquetes-npm-alberto-diego-35l1)
+
 La realización de esta practica consiste en la implementación de las diferentes clases que heredan de **Shape**, en la que cada una de ellas corresponde con un módulo npm.
 
 Para su instalación:
